@@ -43,4 +43,34 @@ nav ul li {
   padding-right: 15px;
 }
 
+section {
+  width: 80%;
+  margin: auto;
+  border: black solid 1px;
+}
+section h1 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-right: 20px;
+}
+section div {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-right: 20px;
+  width: 80%;
+  margin: auto;
+}
+section ul {
+  list-style-type: none;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+section ul li {
+  margin-top: 10px;
+}
+
 /*# sourceMappingURL=stil.css.map */
