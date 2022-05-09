@@ -9,6 +9,7 @@ body {
 }
 
 header {
+  background-image: url("../Images/header.jpg");
   border: solid black 1px;
   border-top: solid white 1px;
   width: 80%;
@@ -16,6 +17,7 @@ header {
   line-height: 3em;
 }
 header h1 {
+  color: white;
   font-weight: 800;
   margin-left: 20px;
   margin-top: 10px;
